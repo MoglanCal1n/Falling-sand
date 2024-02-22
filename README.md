@@ -1,2 +1,2 @@
 # Falling-sand
-Falling sand made in js.
+Falling sand gravity simulator made in js.
